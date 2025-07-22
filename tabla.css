@@ -17,11 +17,7 @@ table{
     margin: auto;
     padding: 8px;
 }
-.img01{
-    width: 200px;
-    height: auto;
-    border-radius: 10px;
-}
+
 th{
     text-align: center;
     color: rgb(0, 0, 0);
@@ -35,7 +31,4 @@ td{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 16px;
 
-}
-.th01{
-    color: blue;
 }
